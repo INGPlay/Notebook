@@ -1,0 +1,13 @@
+- SMTP Host
+smtp.gmail.com
+
+- e-mail
+sendemailcertfication@gmail.com
+
+- 비밀번호
+certifyForEmail-0514
+
+- 앱비밀번호
+uooe wcix jjsb xltj
+
+- Encryption : SSL

@@ -1,0 +1,9 @@
+
+- Oracle Cloud
+id : atker14
+id2 : atker14@gmail.com
+pw : CloudResearch0514!
+
+
+- PokeLogue
+id : ingplay
