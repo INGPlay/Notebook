@@ -10,7 +10,7 @@ categories:
   - *최종적으로 올라가는 파일의 권한은 ‘hfapache:webadm’로 맞춰야 함)
 - 한국어 (ebook.zip)
 
-```java
+```shellscript
 mkdir /was/wcntr17/KO/ebook/$(date +%Y%m)
 cd /was/wcntr17/KO/ebook/$(date +%Y%m)
 mv /home/infouser/ebook/ebook.zip .
@@ -20,7 +20,7 @@ chown -R hfapache:webadm .
 
 - 영문 (ebook_eng.zip)
 
-```java
+```shellscript
 mkdir /was/wcntr17/KO/ebook_eng/$(date +%Y%m)
 cd /was/wcntr17/KO/ebook_eng/$(date +%Y%m)
 mv /home/infouser/ebook/ebook_eng.zip .
@@ -30,7 +30,7 @@ chown -R hfapache:webadm .
 
 - 썸네일 이미지 (양란 차장)
 
-```java
+```shellscript
 cd /was/wcntr17/KO/img
 chown hfapache:webadm /home/infouser/ebook/ebook_main.jpg
 mv /home/infouser/ebook/ebook_main.jpg .

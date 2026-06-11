@@ -13,3 +13,6 @@ winget install OpenJS.NodeJS --version 24.14.0
 winget install Git.Git
 npm install -g yarn
 ```
+
+- JDC 홈페이지
+  - 칼리그램 6월호 국문 업로드
