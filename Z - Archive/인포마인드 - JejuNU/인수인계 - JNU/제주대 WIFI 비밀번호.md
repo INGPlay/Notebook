@@ -9,4 +9,4 @@ categories:
 
 <br>
 
-[JNU\_WIFI\_비밀번호.txt (54 B)](attachments/JNU_WIFI_%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8.txt)
+[JNU\_WIFI\_비밀번호.txt (54 B)](attachments/JNU_WIFI_비밀번호.txt)
