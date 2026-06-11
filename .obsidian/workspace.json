@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8094561798cfb8",
+        "id": "1c7ede672322e6c1",
         "type": "tabs",
         "children": [
           {
-            "id": "760576418d34eda8",
+            "id": "0b88fc2b42586801",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "무제.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "무제 의 개요"
             }
           }
         ]
@@ -176,8 +177,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "760576418d34eda8",
+  "active": "601c8d60c5737897",
   "lastOpenFiles": [
+    "무제.base",
+    "2026-06-11.md",
     "Work/인포마인드/업무/20260610.md",
     "Work/인포마인드/업무/13.md",
     "Work/인포마인드/업무/12.md",
