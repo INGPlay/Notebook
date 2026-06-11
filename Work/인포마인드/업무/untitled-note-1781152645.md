@@ -5,9 +5,9 @@ type: Note
 
 - INSTACK
   - 개발가이드
-- CMD - 관리자 권한 실행
+    - CMD - 관리자 권한 실행
 
-```text
+```fsharp
 winget install Microsoft.OpenJDK.17
 winget install OpenJS.NodeJS --version 24.14.0
 winget install Git.Git

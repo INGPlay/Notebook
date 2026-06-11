@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c7ede672322e6c1",
+        "id": "da64deb1fe5bb822",
         "type": "tabs",
         "children": [
           {
-            "id": "0b88fc2b42586801",
+            "id": "aafb7646db33ed77",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "북마크"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -177,17 +178,17 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "601c8d60c5737897",
+  "active": "b42f9a2f36ac3307",
   "lastOpenFiles": [
-    "무제.base",
     "2026-06-11.md",
+    "CLAUDE.md",
+    "note.md",
+    "type.md",
+    "무제.base",
     "Work/인포마인드/업무/20260610.md",
     "Work/인포마인드/업무/13.md",
     "Work/인포마인드/업무/12.md",
     "AGENTS.md",
-    "CLAUDE.md",
-    "GEMINI.md",
-    "note.md",
-    "type.md"
+    "GEMINI.md"
   ]
 }
