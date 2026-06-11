@@ -5,6 +5,7 @@ type: Note
 
 - INSTACK
   - 개발가이드
+- CMD - 관리자 권한 실행
 
 ```text
 winget install Microsoft.OpenJDK.17
