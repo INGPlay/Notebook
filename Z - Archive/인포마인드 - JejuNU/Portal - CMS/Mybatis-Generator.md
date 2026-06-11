@@ -11,7 +11,7 @@ categories:
 
 - Run/Debug Configuration → Add New Configuration → Application
 
-![](Files/image.png)<br>
+![](attachments/image%2020.png)<br>
 
 <br>
 

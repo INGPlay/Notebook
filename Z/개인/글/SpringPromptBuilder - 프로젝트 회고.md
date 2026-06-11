@@ -19,19 +19,19 @@ categories:
 
 ### 1-2. 개략도
 
-![](Files/image.png)<br>
+![](attachments/image%2023.png)<br>
 
 <br>
 
-![](Files/image%202.png)<br>
+![](attachments/image%202%206.png)<br>
 
 <br>
 
-![](Files/image%203.png)<br>
+![](attachments/image%203%205.png)<br>
 
 <br>
 
-![](Files/image%204.png)<br>
+![](attachments/image%204%204.png)<br>
 
 <br>
 
