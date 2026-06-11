@@ -14,4 +14,3 @@ winget install Git.Git
 npm install -g yarn
 ```
 
-![image](attachments/1781154933940-image_1_160x120.png)
