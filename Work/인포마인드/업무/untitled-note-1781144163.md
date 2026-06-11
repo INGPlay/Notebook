@@ -1,5 +1,5 @@
 ---
-type: null
+type: Note
 ---
 # 2026/06/11
 
