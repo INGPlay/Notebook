@@ -6,4 +6,9 @@ type: Note
 - INSTACK
   - 개발가이드
 
--
+```text
+winget install Microsoft.OpenJDK.17
+winget install OpenJS.NodeJS --version 24.14.0
+winget install Git.Git
+npm install -g yarn
+```
