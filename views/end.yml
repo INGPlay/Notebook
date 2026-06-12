@@ -12,3 +12,6 @@ filters:
     - field: status
       op: not_equals
       value: Done
+  - field: status
+    op: is_not_empty
+    value: ''
