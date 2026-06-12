@@ -6,14 +6,19 @@ type: Note
 - NotebookLM 자동화 기반 사항
   - notebooklm-py 설치 및 인증
 
-```text
+```python
 pip install notebooklm-py[browser]
+
+## 기본 크로뮴
 notebooklm login
+
+## 엣지
+notebooklm login --browser msedge
 ```
 
 - PowerShell
 
-```text
+```batch
 [Convert]::ToBase64String([IO.File]::ReadAllBytes("$env:USERPROFILE\.notebooklm\profiles\default\storage_state.json")) | Set-Clipboard
 ```
 
