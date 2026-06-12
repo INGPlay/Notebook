@@ -6,8 +6,10 @@ type: Note
 - NotebookLM 자동화 기반 사항
   - notebooklm-py 설치 및 인증
 
-```python
+```batch
+## 설치
 pip install notebooklm-py[browser]
+playwright install
 
 ## 기본 크로뮴
 notebooklm login
