@@ -1,0 +1,14 @@
+name: In progress
+icon: null
+color: null
+order: 0
+sort: null
+filters:
+  all:
+  - field: type
+    op: equals
+    value: 체크리스트
+  - any:
+    - field: status
+      op: equals
+      value: In progress
