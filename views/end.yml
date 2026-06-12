@@ -8,10 +8,9 @@ filters:
   - field: type
     op: equals
     value: 체크리스트
-  - any:
-    - field: status
-      op: not_equals
-      value: Done
   - field: status
     op: is_not_empty
     value: ''
+  - field: status
+    op: not_equals
+    value: Done
