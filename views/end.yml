@@ -1,0 +1,16 @@
+name: In progress
+icon: arrows-clockwise
+color: blue
+order: 0
+sort: null
+filters:
+  all:
+  - field: type
+    op: equals
+    value: 체크리스트
+  - field: status
+    op: is_not_empty
+    value: ''
+  - field: status
+    op: not_equals
+    value: Done
