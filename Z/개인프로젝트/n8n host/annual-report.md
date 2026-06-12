@@ -1,7 +1,7 @@
 ---
 type: Note
 ---
-# Annual Report
+# Annual-Report
 
 - NotebookLM 자동화 기반 사항
   - notebooklm-py 설치 및 인증
